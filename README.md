@@ -1,7 +1,9 @@
-# Zoom Clone  #f03c15
+# Zoom Clone Made with Love 💖
+
+<br/>
 
 # Clone of the video conferencing app : Zoom
-
+<br/>
 
 
 # Tech Stack
@@ -21,8 +23,9 @@
 
 
 # screenshots
-
+<br/>
 # Login and Sign Up
+<br/>
 
 ![alt text](<Screenshot (42).png>)
 
@@ -30,6 +33,7 @@
 
 
 # Dashboard ui
+<br/>
 ![alt text](<Screenshot (40).png>)
 
 
@@ -41,7 +45,7 @@
 ![alt text](<Screenshot (37).png>)
 
 # Joining the meeting
-
+<br/>
 ![alt text](<Screenshot (35).png>)
 
 # creating a Meeting
