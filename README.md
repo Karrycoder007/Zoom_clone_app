@@ -81,3 +81,10 @@
 
 ![alt text](<Screenshot (45).png>)
 
+# Others can join using the link
+<br/>
+![Screenshot (46)](https://github.com/Karrycoder007/Zoom_clone_app/assets/155312994/eeb453aa-af51-4ae4-ae20-6db50c689aec)
+
+# Others can join using the link
+
+
