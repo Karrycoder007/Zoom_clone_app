@@ -13,7 +13,7 @@
 ## 3.Typescript
 ## 4.Stream.io
 ## 5.Cleark(authentication)
-
+<br/>
 # Services
 
 1.Authentiication using Cleark 
@@ -24,7 +24,7 @@
 
 # screenshots
 <br/>
-# Login and Sign Up
+## Login and Sign Up
 <br/>
 
 ![alt text](<Screenshot (42).png>)
@@ -38,6 +38,7 @@
 
 
 # Instant Meeting(agter clicking on new meeting)
+<br/>
 
 ![alt text](<Screenshot (34).png>)
 
@@ -49,6 +50,7 @@
 ![alt text](<Screenshot (35).png>)
 
 # creating a Meeting
+<br/>
 
 ![alt text](<Screenshot (36).png>)
 
@@ -57,7 +59,7 @@
 # Previous meetings calls
 
 ![alt text](<Screenshot (38).png>)
-
+<br/>
 
 # Profile
 
@@ -67,6 +69,7 @@
 
 
 # Personal Room creation
+<br/>
 
 ![alt text](<Screenshot (39).png>)
 
