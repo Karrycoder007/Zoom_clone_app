@@ -14,9 +14,10 @@
 ## 4.Stream.io
 ## 5.Cleark(authentication)
 <br/>
+
 # Services
 
-1.Authentiication using Cleark 
+1.Authentiication using Cleark <br/>
 2.Video conferencing using Stream.io
 
 
@@ -37,7 +38,7 @@
 ![alt text](<Screenshot (40).png>)
 
 
-# Instant Meeting(agter clicking on new meeting)
+# Instant Meeting after clicking on new meeting
 <br/>
 
 ![alt text](<Screenshot (34).png>)
@@ -74,7 +75,7 @@
 ![alt text](<Screenshot (39).png>)
 
 
-
+<br/>
 # Video call room
 ![alt text](<Screenshot (44).png>)
 
