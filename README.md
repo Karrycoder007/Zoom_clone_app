@@ -8,11 +8,11 @@
 
 # Tech Stack
 
-1.Nextjs
-2.TailwindCss
-3.Typescript
-4.Stream.io
-5.Cleark(authentication)
+##1.Nextjs
+##2.TailwindCss
+##3.Typescript
+##4.Stream.io
+##5.Cleark(authentication)
 
 # Services
 
